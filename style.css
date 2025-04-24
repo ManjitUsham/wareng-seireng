@@ -1,9 +1,4 @@
-font-face {
-    font-family:'epaomayek' ;
-    src: url('EPAOMAYEK.TTF')format('truetype');
-    font-size:30px;
 
-}
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color:  burlywood;
@@ -12,6 +7,12 @@ body{
     color: rgb(125, 42, 9);
     font-size: 20px;
     letter-spacing: normal;
+
+}
+@font-face {
+    font-family:'epaomayek' ;
+    src: url('EPAOMAYEK.TTF')format('truetype');
+    font-size:30px;
 
 }
 
